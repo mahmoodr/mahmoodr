@@ -9,6 +9,9 @@ I'm a pragmatic Software & DevOps/SRE Engineer with 10+ years of experience in C
 
 ---
 
+![Your GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=mahmoodr&)
+
+
 ## 🔝 Top Languages:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoodr&layout=compact&langs_count=6&theme=radical)
@@ -27,5 +30,3 @@ I'm a pragmatic Software & DevOps/SRE Engineer with 10+ years of experience in C
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/mahmoodrm"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="mahmoodrm" /></a></p>
-<br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoodr&" alt="mahmoodr" /></p>
