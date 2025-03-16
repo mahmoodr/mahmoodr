@@ -25,7 +25,7 @@
 
 ## 📊 My GitHub Stats:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmood-rohani&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmoodr&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ---
 
@@ -39,13 +39,13 @@
 
 ## 🔝 Top Languages:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmood-rohani&layout=compact&langs_count=6&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoodr&layout=compact&langs_count=6&theme=radical)
 
 ---
 
 ## 📅 My Activity:
 
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mahmood-rohani&theme=react)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mahmoodr&theme=react)
 
 ---
 
