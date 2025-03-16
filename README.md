@@ -9,30 +9,11 @@ I'm a pragmatic Software & DevOps/SRE Engineer with 10+ years of experience in C
 
 ---
 
-## 🌍 Connect with Me:
-
-- [LinkedIn](https://www.linkedin.com/in/mahmood-rohani)
-- [Medium](https://rome-rohani.medium.com)
-
----
-
 ## 🔝 Top Languages:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoodr&layout=compact&langs_count=6&theme=radical)
 
 ---
-
-## 📅 My Activity:
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mahmoodr&theme=react)
-
----
-
-
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
