@@ -1,5 +1,5 @@
 # Hi there! 👋
-I'm Mahmood (also known as Rome, He/Him), and welcome to my GitHub profile! I'm a pragmatic Software & DevOps/SRE Engineer with extensive experience in Cloud-Native infrastructure, automation, and reliability engineering. I specialize in designing highly available, scalable, secure, and cost-optimized platforms for mission-critical systems.
+I'm Mahmood (also known as Rome, He/Him), and you've reached my github page! I'm a pragmatic Software & DevOps/SRE Engineer with extensive experience in Cloud-Native infrastructure, automation, and reliability engineering. I specialize in designing highly available, scalable, secure, and cost-optimized platforms for mission-critical systems.
 
 I'm passionate about observability, FinOps, product leadership, ownership, and team mentorship—always striving to build resilient systems and empower engineering teams. 🚀
 
